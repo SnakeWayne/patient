@@ -1,0 +1,7 @@
+window.globalConfig = {
+   BASE_API: 'http://zhgl.zzrmyy.com:9000/',
+   FILE_API: 'http://zhgl.zzrmyy.com:9000/img/',
+  GLOBALLIST: [],
+  useAes: false,
+  routerFlag: false
+}
